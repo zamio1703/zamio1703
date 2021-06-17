@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zamio1703 Miguel Angel Zamora Castelan
+- 👀 I’m interested in web development and computer security
+- 🌱 I’m currently learning CSS and JS frameworks
+- 💞️ I’m looking to collaborate on a software development company
+- 📫 How to reach me mazcitics@gmail.com
